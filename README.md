@@ -1,2 +1,1 @@
-
-https://store-ip-rd.github.io/ip-store/
+index.html
