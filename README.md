@@ -1,2 +1,2 @@
-# ip-store
-index.HTML
+
+https://store-ip-rd.github.io/ip-store/
